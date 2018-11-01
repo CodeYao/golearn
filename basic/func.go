@@ -36,5 +36,6 @@ func main() {
 		fmt.Println(result)
 	}
 	q, r := div(13, 4)
+
 	fmt.Println(q, r)
 }
