@@ -1,0 +1,9 @@
+mode: set
+github.com/golearn/basic/loop.go:10.33,12.25 2 0
+github.com/golearn/basic/loop.go:15.2,15.10 1 0
+github.com/golearn/basic/loop.go:12.25,14.3 1 0
+github.com/golearn/basic/loop.go:18.33,20.16 2 0
+github.com/golearn/basic/loop.go:23.2,25.21 2 0
+github.com/golearn/basic/loop.go:20.16,21.13 1 0
+github.com/golearn/basic/loop.go:25.21,27.3 1 0
+github.com/golearn/basic/loop.go:30.13,39.2 2 0
